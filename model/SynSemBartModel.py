@@ -92,7 +92,6 @@ class SynSemBartModel(BartPretrainedModel):
             )
 
         # Syntactic Encoder
-        # pos_encoder_outputs[0] 그대로 쓸지, pooling해서 repeat할지 고민
         if pos_encoder_outputs is None:
             pos_encoder_outputs = self.pos_encoder(
                 input_ids=pos_input_ids,
