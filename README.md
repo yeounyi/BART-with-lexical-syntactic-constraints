@@ -31,3 +31,7 @@ outputs = model.generate(input_ids = inputs.input_ids, attention_mask = inputs.a
 tokenizer.decode(outputs, skip_special_tokens=True)
 # >> 'Bake the cake, Get the break.'
 ```
+
+<br>
+<img src="https://github.com/yeounyi/yeounyi.github.io/blob/master/assets/img/model_structure.JPG?raw=true">
+<br>
