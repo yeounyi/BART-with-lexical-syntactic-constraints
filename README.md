@@ -3,7 +3,7 @@
 Generate a sentence or a slogan with given keywords and syntactic structure. 
 
 
-```
+```python
 from transformers import BartTokenizer
 from SynSemBartForConditionalGeneration import SynSemBartForConditionalGeneration
 
