@@ -33,5 +33,5 @@ tokenizer.decode(outputs, skip_special_tokens=True)
 ```
 
 <br>
-<img src="https://github.com/yeounyi/yeounyi.github.io/blob/master/assets/img/model_structure.JPG?raw=true">
+<img src="https://github.com/yeounyi/yeounyi.github.io/blob/main/assets/img/model_structure.JPG?raw=true">
 <br>
